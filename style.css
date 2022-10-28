@@ -38,7 +38,7 @@ a {
 
 .container {
     width: min(100% - var(--gap) * 2, var(--container-primary));
-    margin-inline: auto;  
+    margin-inline: auto;
 }
 
 .container--sm {
@@ -59,8 +59,8 @@ a {
     clip: rect(0 0 0 0);
     overflow: hidden;
   }
-  
-.section {
+
+  .section {
     padding-top: 112px;
     padding-bottom: 91px;
     padding-left: 0;
@@ -185,6 +185,7 @@ a {
 }
 
 .footer__name {
+
     font-weight: 500;
     font-size: 21px;
     line-height: var(--line-height-sm);
