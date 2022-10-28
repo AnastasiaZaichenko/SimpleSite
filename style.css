@@ -43,7 +43,6 @@ a {
 
 .container--sm {
     width: min(100% - var(--gap) * 2, var(--container-small));
-    margin-inline: auto;
 }
 
 .visually-hidden {
